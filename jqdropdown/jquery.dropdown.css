@@ -112,7 +112,7 @@
 }
  #language{
       top:4rem; 
-      right: 2rem;
+      right: -8rem;
     }
 @media screen and (max-width: 768px) {
    #services{
