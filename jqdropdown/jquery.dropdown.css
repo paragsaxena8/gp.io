@@ -104,3 +104,13 @@
     padding: 0;
     margin: 5px 0;
 }
+.jq-dropdown-pos{
+    top:4rem; 
+    right: 0rem;
+}
+@media screen and (max-width: 768px) {
+   .jq-dropdown-pos{
+    top:14rem; 
+    right: 2rem;
+} 
+}
