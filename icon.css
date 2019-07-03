@@ -1,0 +1,124 @@
+.anim-icon{
+  	position:absolute;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-shadow: -2px 10px 6px #b6b4b4;
+    font-size: 32px;
+  	z-index: 1;
+}
+.anim-icon img {
+    width: auto;
+  	z-index: 1;
+    -webkit-filter: drop-shadow(-3px 12px 2px rgba(0,0,0,0.3));
+}
+.icon-1 {
+    left: 0px;
+    top: 0px;
+    animation: float 1.8s infinite ease-in-out;
+}
+.icon-2 {
+    right: 0;
+    top: -2rem;
+    animation: tada 1.8s infinite ease-in-out;
+}
+.icon-3 {
+    left: 19rem;
+    top: -2rem;
+    animation: fade-up 2s infinite ease-in-out;
+}
+.icon-4 {
+    top: -40px;
+  	left: 100px;
+    animation: fly 1.8s infinite ease-in-out;
+}
+.animation-box-2{
+  position: relative;
+}
+.icon-5 {
+    top: 320px;
+    left: -270px;
+    animation: fadeLTR 1.8s infinite ease-in-out;
+}
+.icon-6 {
+    top: 18rem;
+    left: 0rem;
+    animation: fly 1.8s infinite ease-in-out;
+}
+.icon-7 {
+    left: 7rem;
+    top: 0rem;
+    animation: fade-up 2s infinite ease-in-out;
+}
+.icon-8 {
+    left: 700px;
+    top: 0px;
+    animation: fly 1.8s infinite ease-in-out;
+}
+.icon-9 {
+    left: -70px;
+    top: 0px;
+    animation: fadeRTL 1.4s infinite ease-in-out;
+}
+.icon-10 {
+    right: 0;
+    top: 0px;
+    animation: fade-up 1.6s infinite ease-in-out;
+}
+.icon-11 {
+    left: 530px;
+    top: -190px;
+    animation: tada 1.4s infinite ease-in-out;
+}
+.icon-12 {
+    top: -70px;
+    left: 210px;
+    animation: rotation 1.8s infinite ease-in-out;
+}
+.icon-13 {
+    right: -440px;
+    top: -40px;
+    animation: fadeLTR 2.1s infinite ease-in-out;
+}
+.icon-14 {
+    left: -50px;
+    top: 90px;
+    animation: tada 1.8s infinite ease-in-out;
+}
+.icon-15 {
+    right: 80px;
+    top: 130px;
+    animation: fade-up 2s infinite ease-in-out;
+}
+.icon-16 {
+    right: -700px;
+    bottom: 80px;
+    animation: fly 1.8s infinite ease-in-out;
+}
+.icon-17 {
+    top: -371px;
+    left: 300px;
+    animation: fadeRTL 1.4s infinite ease-in-out;
+}
+.icon-18 {
+    left: -60px;
+    top: -260px;
+    animation: fly 1.6s infinite ease-in-out;
+}
+.icon-19 {
+    right: 40px;
+    top: -300px;
+    animation: tada 1.4s infinite ease-in-out;
+}
+.icon-20 {
+    top: 40px;
+    left: 180px;
+    animation: rotation 2.3s infinite ease-in-out;
+}
+.icon-21 {
+    right: 110px;
+    bottom: 120px;
+    animation: fadeLTR 2.1s infinite ease-in-out;
+}
