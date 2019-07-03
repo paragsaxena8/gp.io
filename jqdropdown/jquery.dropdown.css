@@ -106,7 +106,7 @@
     padding: 0;
     margin: 5px 0;
 }
-#services{
+#jq-services{
     top:4rem; 
     right: 0rem;
 }
@@ -115,9 +115,9 @@
       right: -8rem;
     }
 @media screen and (max-width: 768px) {
-   #services{
+   #jq-services{
     top:12rem; 
-    right: 0;
+    right: 2rem;
 } 
     #language{
       top:14rem; 
