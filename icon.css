@@ -78,7 +78,7 @@
     animation: rotation 1.8s infinite ease-in-out;
 }
 .icon-13 {
-    right: -440px;
+    right: 0px;
     top: -40px;
     animation: fadeLTR 2.1s infinite ease-in-out;
 }
@@ -88,9 +88,9 @@
     animation: tada 1.8s infinite ease-in-out;
 }
 .icon-15 {
-    right: 80px;
+    right: 0px;
     top: 130px;
-    animation: fade-up 2s infinite ease-in-out;
+    animation: fly 2s infinite ease-in-out;
 }
 .icon-16 {
     right: -700px;
