@@ -25,8 +25,8 @@
     animation: tada 1.8s infinite ease-in-out;
 }
 .icon-3 {
-    left: 19rem;
-    top: -2rem;
+    left: 0rem;
+    top: 17rem;
     animation: fade-up 2s infinite ease-in-out;
 }
 .icon-4 {
@@ -68,13 +68,13 @@
     animation: fade-up 1.6s infinite ease-in-out;
 }
 .icon-11 {
-    left: 530px;
+    left: 0px;
     top: -190px;
     animation: tada 1.4s infinite ease-in-out;
 }
 .icon-12 {
     top: -70px;
-    left: 210px;
+    right: 210px;
     animation: rotation 1.8s infinite ease-in-out;
 }
 .icon-13 {
