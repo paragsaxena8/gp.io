@@ -44,12 +44,12 @@
 }
 .icon-6 {
     top: 18rem;
-    left: 0rem;
+    right: 0rem;
     animation: fly 1.8s infinite ease-in-out;
 }
 .icon-7 {
-    left: 7rem;
-    top: 0rem;
+    left: 14rem;
+    top: 2rem;
     animation: fade-up 2s infinite ease-in-out;
 }
 .icon-8 {
