@@ -108,19 +108,19 @@
 }
 #jq-services{
     top:4rem; 
-    right: 0rem;
+    right: -4rem;
 }
  #language{
       top:4rem; 
-      right: -8rem;
+      right: -11rem;
     }
 @media screen and (max-width: 768px) {
    #jq-services{
-    top:12rem; 
+    top:14rem; 
     right: 2rem;
 } 
     #language{
-      top:14rem; 
+      top:18rem; 
       right: 2rem;
     }
 }
